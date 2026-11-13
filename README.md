@@ -5,8 +5,7 @@ NOTA:LA ACTIVIDAD U trabajo en equipo semana 3 pagina de juegos emulador el repo
 
 Actividades sobre cómo funcionan las reglas, los ejemplos y los asistentes de IA, hechas en pseudocódigo con PSeInt.
 
-**Equipo:** [nombres de los integrantes]
-**Curso:** [materia o grupo]
+
 
 ## Contenido
 
